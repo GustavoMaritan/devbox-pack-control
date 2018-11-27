@@ -1,0 +1,22 @@
+{
+	"name": "devbox-pack-control",
+	"version": "0.0.1",
+	"description": "Controle de package locais",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GustavoMaritan/devbox-pack-control.git"
+	},
+	"bugs": {
+		"url": "https://github.com/GustavoMaritan/devbox-pack-control/issues"
+	},
+	"author": "Gustavo Maritan <gustavomaritan@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"colors": "^1.3.2"
+	},
+	"homepage": "https://github.com/GustavoMaritan/devbox-pack-control#readme"
+}
